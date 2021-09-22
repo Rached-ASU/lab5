@@ -86,6 +86,27 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+<div class=" container-md " role="main">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+      
+
+      <h3 id="overview-of-steps-required">Overview of steps required</h3>
+
+<p>Getting started is <em>literally</em> as easy as 1-2-3 :smile:</p>
+
+<p>Scroll down to see the steps involved, but here is a 40-second video just as a reference as you work through the steps. If you don’t already have a <a href="https://github.com/join">GitHub account</a>, you’ll need to sign up.</p>
+
+<p><img src="/assets/img/install-steps.gif" alt="Installation steps" /></p>
+
+<div class="gs-section-01">
+
+  <h3 id="fork-this-project">1. Fork this project</h3>
+
+  <p>Fork this project by clicking the <strong><em>Fork</em></strong> button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.</p>
+
+</div>
+
 <style>
 
 .gs-section-01 h3 { 
@@ -95,10 +116,8 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
      font-size: 30px;
 }
 
-### 1. Fork this project
-
-Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 </style>
+
 
 
 ### 2. Rename the project to `<yourusername>.github.io`
