@@ -67,11 +67,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-There are only three simple steps, ....  
 
-Here is a 40-second video ....
-
-<img src="/assets/img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
 <div class="gs-section-01" markdown="1">
 
