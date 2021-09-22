@@ -265,7 +265,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
                    line-height: 1.8
                }
 
- .pretty-text h1 {
+ .pretty-text {
                    color: darkred;
                    font-size: 40px;
                 }
