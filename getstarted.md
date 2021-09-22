@@ -1,22 +1,3 @@
-### Overview of steps required
-
-There are only three simple steps, ....  
-
-Here is a 40-second video ....
-
-<img src="/assets/img/install-steps.gif" alt="Installation steps">
-
-
-<div class="gs-section-01" markdown="1">
-
-
-### 1. Fork the Beautiful Jekyll repository 
-
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
-by clicking the Fork button on the top right corner in GitHub.
-
-
-</div>
 
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
@@ -86,9 +67,22 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-### 1. Fork this project
+There are only three simple steps, ....  
 
-Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
+Here is a 40-second video ....
+
+<img src="/assets/img/install-steps.gif" style="width:100%;" alt="Installation steps" />
+
+<div class="gs-section-01" markdown="1">
+
+
+### 1. Fork the Beautiful Jekyll repository 
+
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub.
+
+
+</div>
 
 
 
