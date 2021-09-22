@@ -256,6 +256,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
                   padding-left: 30px;
                   padding-right: 30px;
                   text-align: justify;
+                   color:blue
                }
 .pretty-text h1 {
                    color: darkred;
