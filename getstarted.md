@@ -257,7 +257,10 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
                   padding-right: 30px;
                   text-align: justify;
                }
-
+.pretty-text h1 {
+                   color: darkred;
+                   font-size: 40px;
+                }
 .pretty-text p {
                    line-height: 1.8
                }
