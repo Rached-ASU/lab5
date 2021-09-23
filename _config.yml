@@ -11,16 +11,18 @@ title: Rached's wesbite
 # Your name to show in the footer
 author: Rached
 
-# --- List of links in the navigation bar --- #
 
+# List of links in the navigation bar
 navbar-links:
-About Me: "aboutme"
-Resources: 
-  - Beautiful Jekyll: "https://beautifuljekyll.com" 
-  - Learn markdown: "https://www.markdowntutorial.com/"
-  - Getting Started: "getstarted"
-Table Demo: "table-demo" 
-Author's home: "https://github.com/Sanaz-27"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Getting Started: "getstarted"                         # ADD THIS LINK
+  Author's home: "http://deanattali.com"
+  Table Demo: "table-demo" 
+
+
 
 # --- Logo --- #
 
